@@ -44,17 +44,17 @@ function About() {
       </div>
 
       <div className="about-acheivments">
-        <div className="about-acchivement">
+        <div className="about-acheivment">
           <h1>1+</h1>
           <p>year of experince</p>{" "}
         </div>
         <hr />
-        <div className="about-acchivement">
+        <div className="about-acheivment">
           <h1>10+</h1>
           <p>project</p>{" "}
         </div>
         <hr />
-        <div className="about-acchivement">
+        <div className="about-acheivment">
           <h1>10</h1>
           <p>happaty clinet</p>{" "}
         </div>
