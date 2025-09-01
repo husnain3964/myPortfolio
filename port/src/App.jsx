@@ -4,6 +4,7 @@ import Hero from "./components/hero/hero.jsx";
 import About from "./components/about/About.jsx";
 import "./app.css";
 import Services from "./components/services/services.jsx";
+import Mywork from "./components/mywork/Mywork.jsx";
 function App() {
   return (
     <div>
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <About />
       <Services />
+      <Mywork />
     </div>
   );
 }
