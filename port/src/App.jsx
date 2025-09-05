@@ -13,7 +13,7 @@ function App() {
       <Hero />
       <About />
       <Services />
-      <Mywork />
+      <Mywork/>
     </div>
   );
 }
